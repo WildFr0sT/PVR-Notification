@@ -35,4 +35,4 @@ async function main() {
 main();
 
 // Set an interval to run the main function every 10 minutes (600000 milliseconds)
-interval = setInterval(main, 600000);
+interval = setInterval(main, 1800000);
