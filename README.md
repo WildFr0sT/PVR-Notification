@@ -1,4 +1,4 @@
-**This project is designed to fetch movie data from an API and send an SMS notification when specific movies are found. It uses Node.js and Axios for API requests and Fast2SMS for sending SMS notifications.**
+
 # PVR-Notification
 
 This project is designed to fetch movie data from an API and send an SMS notification when specific movies are found. It uses Node.js and Axios for API requests and Fast2SMS for sending SMS notifications.
